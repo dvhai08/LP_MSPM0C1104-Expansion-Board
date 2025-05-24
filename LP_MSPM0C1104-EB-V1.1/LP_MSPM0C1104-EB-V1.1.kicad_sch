@@ -2967,6 +2967,12 @@
 		(uuid "03da0904-e748-4ed9-8a3c-3d57faf19bf5")
 	)
 	(junction
+		(at 199.39 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "042c4650-89b6-48e6-b5c5-43d020a9939c")
+	)
+	(junction
 		(at 140.97 160.02)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -2979,7 +2985,13 @@
 		(uuid "0b7b0320-b8a7-43dc-ab55-0d19b362d32d")
 	)
 	(junction
-		(at 180.34 129.54)
+		(at 163.83 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0dd85fff-d69c-46b5-ab4a-09a0a91e7dd8")
+	)
+	(junction
+		(at 172.72 129.54)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "0f6ac30e-152d-4dba-a1e9-4a7a89fc34d8")
@@ -3009,10 +3021,10 @@
 		(uuid "1ab8a842-151f-4968-a31b-31e6ea65c31b")
 	)
 	(junction
-		(at 200.66 143.51)
+		(at 106.68 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1e9482c0-1c28-4706-9e88-7932bf1c1f6d")
+		(uuid "1c5692cd-0e32-4ff2-9281-fc4b26e4f379")
 	)
 	(junction
 		(at 190.5 25.4)
@@ -3021,7 +3033,7 @@
 		(uuid "2588fbff-5346-42bf-b70b-37c4669a231d")
 	)
 	(junction
-		(at 72.39 190.5)
+		(at 72.39 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27666b0a-d521-4399-858c-2425acd72a2d")
@@ -3033,7 +3045,7 @@
 		(uuid "2b2ff879-57ef-4c97-903e-b18465d2fd9e")
 	)
 	(junction
-		(at 55.88 173.99)
+		(at 55.88 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2bbe072f-15ed-4449-b95f-e5be4fdd1969")
@@ -3051,10 +3063,28 @@
 		(uuid "35e504d4-880b-41f3-85b8-7bd1c2743fae")
 	)
 	(junction
+		(at 194.31 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36254b61-ffdc-4bc9-949f-4033cc1fcd71")
+	)
+	(junction
+		(at 194.31 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36534f58-d358-43fd-87ec-9b49954db4e8")
+	)
+	(junction
 		(at 48.26 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36e3975e-0ea9-4f5d-a1e9-f75972218868")
+	)
+	(junction
+		(at 212.09 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3de3d9b6-a0f5-455e-a0fa-f056dc96910b")
 	)
 	(junction
 		(at 213.36 90.17)
@@ -3067,12 +3097,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43bf9ce1-3dfd-4fac-b192-abc33ba85c7a")
-	)
-	(junction
-		(at 173.99 129.54)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "4c862e74-e6c2-45ee-8da2-7ec7f8c8b9b8")
 	)
 	(junction
 		(at 194.31 35.56)
@@ -3093,28 +3117,22 @@
 		(uuid "5d4999fb-8681-47d9-a71e-8bda8d8bd215")
 	)
 	(junction
+		(at 55.88 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d5531a3-5761-4cd6-b796-4b163c37ca1a")
+	)
+	(junction
 		(at 193.04 90.17)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "6823a3e4-0e9e-4e00-9e06-236c919770b9")
 	)
 	(junction
-		(at 187.96 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a316ca6-7f47-4bad-a9bd-a082c5471a6b")
-	)
-	(junction
-		(at 207.01 129.54)
+		(at 199.39 129.54)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "6c50d6cf-f4b3-4763-87aa-f1e17b7191e7")
-	)
-	(junction
-		(at 173.99 143.51)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "7034d76a-ff9c-4580-8d3d-5fe6ae734adc")
 	)
 	(junction
 		(at 64.77 85.09)
@@ -3135,6 +3153,12 @@
 		(uuid "744d8cb4-8a90-4a01-9321-3c69a91d93c8")
 	)
 	(junction
+		(at 163.83 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c4c6f20-1df0-493a-aa4e-edb12d94bfae")
+	)
+	(junction
 		(at 82.55 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3151,12 +3175,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "910ac820-024e-4c47-9c61-57cb2148621a")
-	)
-	(junction
-		(at 212.09 142.24)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "97666fe2-c76c-4548-afb6-8c9c27174218")
 	)
 	(junction
 		(at 77.47 31.75)
@@ -3183,7 +3201,7 @@
 		(uuid "a18a500b-c7bb-4a27-93d1-939dfbdbd3c4")
 	)
 	(junction
-		(at 196.85 129.54)
+		(at 189.23 129.54)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "a4313cdc-7e01-400f-9577-9d6b43d01008")
@@ -3195,7 +3213,7 @@
 		(uuid "aa688141-370a-4c61-85bf-41801d61caea")
 	)
 	(junction
-		(at 196.85 143.51)
+		(at 189.23 143.51)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "ae3fcd81-cb3a-4c1a-9bed-245cba2d0adc")
@@ -3219,7 +3237,7 @@
 		(uuid "b52d2081-8b6b-4e0f-8d73-8168149a5b17")
 	)
 	(junction
-		(at 180.34 143.51)
+		(at 172.72 143.51)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "b6f6a067-34ae-4df4-9648-955a5d000599")
@@ -3229,6 +3247,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2ec3d29-d98c-47fc-9475-3e5be5d83f54")
+	)
+	(junction
+		(at 43.18 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6c2c203-26a0-48b9-b59f-50dea1788135")
 	)
 	(junction
 		(at 68.58 31.75)
@@ -3241,12 +3265,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d45022b9-8005-4381-977c-26509125363c")
-	)
-	(junction
-		(at 200.66 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc0da834-d936-4803-8695-19983f0c3a70")
 	)
 	(junction
 		(at 194.31 73.66)
@@ -3273,12 +3291,6 @@
 		(uuid "e4f02b89-00aa-46d7-be99-f14119caa213")
 	)
 	(junction
-		(at 43.18 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e6d7bc7e-8286-44fe-bdd7-f69aec159a9d")
-	)
-	(junction
 		(at 71.12 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3295,6 +3307,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ebc51963-8ef7-4c6a-b825-ac6f369d5e66")
+	)
+	(junction
+		(at 158.75 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "edddb73c-63c6-4cdb-bf92-4ce1d4b3c334")
 	)
 	(wire
 		(pts
@@ -3338,7 +3356,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 129.54) (xy 196.85 129.54)
+			(xy 187.96 129.54) (xy 189.23 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3348,7 +3366,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 129.54) (xy 212.09 129.54)
+			(xy 199.39 129.54) (xy 212.09 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3358,7 +3376,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 129.54) (xy 173.99 129.54)
+			(xy 158.75 129.54) (xy 163.83 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3368,7 +3386,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 138.43) (xy 200.66 143.51)
+			(xy 194.31 138.43) (xy 194.31 143.51)
 		)
 		(stroke
 			(width 0)
@@ -3388,7 +3406,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 129.54) (xy 196.85 132.08)
+			(xy 189.23 129.54) (xy 189.23 132.08)
 		)
 		(stroke
 			(width 0)
@@ -3398,7 +3416,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 190.5) (xy 55.88 190.5)
+			(xy 72.39 185.42) (xy 55.88 185.42)
 		)
 		(stroke
 			(width 0)
@@ -3408,7 +3426,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 138.43) (xy 173.99 143.51)
+			(xy 163.83 138.43) (xy 163.83 143.51)
 		)
 		(stroke
 			(width 0)
@@ -3508,7 +3526,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 31.75) (xy 104.14 34.29)
+			(xy 106.68 31.75) (xy 106.68 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3558,7 +3576,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 129.54) (xy 166.37 133.35)
+			(xy 158.75 129.54) (xy 158.75 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3578,6 +3596,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 143.51) (xy 199.39 143.51)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "1fbec746-fa09-4873-8c77-869f2483efe4")
+	)
+	(wire
+		(pts
 			(xy 203.2 71.12) (xy 203.2 73.66)
 		)
 		(stroke
@@ -3588,7 +3616,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 139.7) (xy 196.85 143.51)
+			(xy 189.23 139.7) (xy 189.23 143.51)
 		)
 		(stroke
 			(width 0)
@@ -3598,7 +3626,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 142.24) (xy 212.09 142.24)
+			(xy 213.36 143.51) (xy 212.09 143.51)
 		)
 		(stroke
 			(width 0)
@@ -3618,7 +3646,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 138.43) (xy 180.34 143.51)
+			(xy 172.72 138.43) (xy 172.72 143.51)
 		)
 		(stroke
 			(width 0)
@@ -3628,7 +3656,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 138.43) (xy 207.01 143.51)
+			(xy 199.39 138.43) (xy 199.39 143.51)
 		)
 		(stroke
 			(width 0)
@@ -3705,36 +3733,6 @@
 			(type solid)
 		)
 		(uuid "2d9fb925-9038-4156-89eb-293b981a24dd")
-	)
-	(wire
-		(pts
-			(xy 43.18 133.35) (xy 43.18 134.62)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "3035948b-5aa0-4ea0-9960-17097c7b79b3")
-	)
-	(wire
-		(pts
-			(xy 200.66 129.54) (xy 207.01 129.54)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "3063b562-51c7-4ac6-b126-885c427fd4f5")
-	)
-	(wire
-		(pts
-			(xy 173.99 129.54) (xy 180.34 129.54)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "30a43a53-a31a-4b88-9c7c-071251542098")
 	)
 	(wire
 		(pts
@@ -3828,13 +3826,23 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 182.88) (xy 48.26 182.88)
+			(xy 45.72 177.8) (xy 48.26 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3b021f18-caca-4369-b42c-e37adcb20729")
+	)
+	(wire
+		(pts
+			(xy 49.53 160.02) (xy 55.88 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c66c3ff-2aed-47bf-b23d-ab0467fb6b28")
 	)
 	(wire
 		(pts
@@ -3845,6 +3853,16 @@
 			(type solid)
 		)
 		(uuid "3cb2e99d-e70a-4997-ad8b-b036a3fa423d")
+	)
+	(wire
+		(pts
+			(xy 194.31 129.54) (xy 199.39 129.54)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "3f0f6721-4ab7-4967-a6c5-795815573173")
 	)
 	(wire
 		(pts
@@ -3868,7 +3886,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 165.1) (xy 72.39 165.1)
+			(xy 90.17 160.02) (xy 72.39 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3918,7 +3936,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 129.54) (xy 180.34 133.35)
+			(xy 172.72 129.54) (xy 172.72 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3938,6 +3956,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 143.51) (xy 163.83 143.51)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "4db451ab-3511-4201-9338-ede796c8b2ff")
+	)
+	(wire
+		(pts
 			(xy 39.37 119.38) (xy 43.18 119.38)
 		)
 		(stroke
@@ -3948,7 +3976,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 177.8) (xy 55.88 173.99)
+			(xy 55.88 172.72) (xy 55.88 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3965,6 +3993,16 @@
 			(type solid)
 		)
 		(uuid "564e58d8-1fad-4fa2-9872-7acb15ce296c")
+	)
+	(wire
+		(pts
+			(xy 199.39 143.51) (xy 203.2 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "583b5470-dca0-4207-a669-c19edf93f044")
 	)
 	(wire
 		(pts
@@ -3985,16 +4023,6 @@
 			(type solid)
 		)
 		(uuid "59102af1-264c-47e8-bbdb-e7eb8481c930")
-	)
-	(wire
-		(pts
-			(xy 173.99 143.51) (xy 180.34 143.51)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "593f79b7-70c3-45ec-baa5-ba45df0c076a")
 	)
 	(wire
 		(pts
@@ -4048,7 +4076,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 137.16) (xy 91.44 137.16)
+			(xy 81.28 137.16) (xy 87.63 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4158,6 +4186,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 31.75) (xy 111.76 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7768db55-2f5a-42b7-8348-dc4af337d938")
+	)
+	(wire
+		(pts
 			(xy 57.15 41.91) (xy 57.15 43.18)
 		)
 		(stroke
@@ -4195,16 +4233,6 @@
 			(type default)
 		)
 		(uuid "7b077155-09ca-45e6-b1cc-cd4bb6482f01")
-	)
-	(wire
-		(pts
-			(xy 187.96 143.51) (xy 196.85 143.51)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "7c67fdeb-402a-4f08-b8a4-c52ecb14d108")
 	)
 	(wire
 		(pts
@@ -4248,7 +4276,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 129.54) (xy 180.34 129.54)
+			(xy 175.26 129.54) (xy 172.72 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4265,6 +4293,16 @@
 			(type default)
 		)
 		(uuid "84faa743-8f9f-467d-ab59-bc026d761c82")
+	)
+	(wire
+		(pts
+			(xy 43.18 144.78) (xy 55.88 144.78)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "84fdfc9c-e7a7-4ac2-91e2-96abe1c0fd42")
 	)
 	(wire
 		(pts
@@ -4288,7 +4326,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 31.75) (xy 129.54 31.75)
+			(xy 104.14 31.75) (xy 106.68 31.75)
 		)
 		(stroke
 			(width 0)
@@ -4328,7 +4366,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 143.51) (xy 200.66 143.51)
+			(xy 189.23 143.51) (xy 194.31 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4418,7 +4456,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 165.1) (xy 72.39 168.91)
+			(xy 72.39 160.02) (xy 72.39 163.83)
 		)
 		(stroke
 			(width 0)
@@ -4438,7 +4476,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 132.08) (xy 43.18 133.35)
+			(xy 43.18 132.08) (xy 43.18 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4468,7 +4506,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 129.54) (xy 173.99 133.35)
+			(xy 163.83 129.54) (xy 163.83 133.35)
 		)
 		(stroke
 			(width 0)
@@ -4508,7 +4546,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 129.54) (xy 207.01 133.35)
+			(xy 199.39 129.54) (xy 199.39 133.35)
 		)
 		(stroke
 			(width 0)
@@ -4518,7 +4556,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 143.51) (xy 187.96 144.78)
+			(xy 158.75 143.51) (xy 158.75 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4538,7 +4576,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 143.51) (xy 187.96 143.51)
+			(xy 172.72 143.51) (xy 189.23 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4558,7 +4596,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 190.5) (xy 72.39 179.07)
+			(xy 72.39 185.42) (xy 72.39 173.99)
 		)
 		(stroke
 			(width 0)
@@ -4578,7 +4616,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 133.35) (xy 43.18 133.35)
+			(xy 34.29 144.78) (xy 43.18 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4588,7 +4626,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 129.54) (xy 200.66 133.35)
+			(xy 194.31 129.54) (xy 194.31 133.35)
 		)
 		(stroke
 			(width 0)
@@ -4598,13 +4636,23 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 143.51) (xy 207.01 143.51)
+			(xy 163.83 143.51) (xy 172.72 143.51)
 		)
 		(stroke
 			(width 0)
 			(type solid)
 		)
-		(uuid "b4b5bdbe-a330-4fdc-8487-d3b873a5855b")
+		(uuid "b427e0c4-7285-408a-80ed-f858bdb68a5b")
+	)
+	(wire
+		(pts
+			(xy 208.28 143.51) (xy 212.09 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b564bec9-777f-4e39-96ce-08e77478158e")
 	)
 	(wire
 		(pts
@@ -4688,7 +4736,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 173.99) (xy 62.23 173.99)
+			(xy 55.88 168.91) (xy 62.23 168.91)
 		)
 		(stroke
 			(width 0)
@@ -4728,7 +4776,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 142.24) (xy 212.09 143.51)
+			(xy 212.09 134.62) (xy 212.09 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4788,7 +4836,17 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 129.54) (xy 200.66 129.54)
+			(xy 163.83 129.54) (xy 172.72 129.54)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "d2b38bea-d403-4b0a-ac5d-cc7234c02e06")
+	)
+	(wire
+		(pts
+			(xy 189.23 129.54) (xy 194.31 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4828,7 +4886,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 142.24) (xy 222.25 142.24)
+			(xy 218.44 143.51) (xy 222.25 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4868,17 +4926,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 134.62) (xy 212.09 142.24)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "d8308241-f7d8-4f1d-adc4-4fd93a708742")
-	)
-	(wire
-		(pts
-			(xy 55.88 187.96) (xy 55.88 190.5)
+			(xy 55.88 182.88) (xy 55.88 185.42)
 		)
 		(stroke
 			(width 0)
@@ -4898,23 +4946,13 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 124.46) (xy 34.29 133.35)
+			(xy 34.29 124.46) (xy 34.29 144.78)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "dc1f0adc-5c4a-4ea2-a50f-17152f0b1eef")
-	)
-	(wire
-		(pts
-			(xy 166.37 143.51) (xy 173.99 143.51)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "ddb0a78a-c31b-4800-98ac-6788ca083608")
 	)
 	(wire
 		(pts
@@ -4928,7 +4966,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 172.72) (xy 55.88 173.99)
+			(xy 55.88 167.64) (xy 55.88 168.91)
 		)
 		(stroke
 			(width 0)
@@ -4998,7 +5036,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 140.97) (xy 166.37 143.51)
+			(xy 158.75 140.97) (xy 158.75 143.51)
 		)
 		(stroke
 			(width 0)
@@ -5048,7 +5086,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 165.1) (xy 55.88 167.64)
+			(xy 55.88 160.02) (xy 55.88 162.56)
 		)
 		(stroke
 			(width 0)
@@ -5148,7 +5186,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 29.21) (xy 129.54 31.75)
+			(xy 111.76 29.21) (xy 111.76 31.75)
 		)
 		(stroke
 			(width 0)
@@ -5156,7 +5194,7 @@
 		)
 		(uuid "fde53f75-751b-4c1b-9fb4-99895e391487")
 	)
-	(label "RFID_IN"
+	(label "RF_IN"
 		(at 250.19 118.11 180)
 		(effects
 			(font
@@ -5176,7 +5214,7 @@
 		)
 		(uuid "04ff1745-292e-45b3-bba7-34abc45efd4e")
 	)
-	(label "ACC"
+	(label "KEY1"
 		(at 213.36 44.45 180)
 		(effects
 			(font
@@ -5186,7 +5224,7 @@
 		)
 		(uuid "0ef1aa85-cd98-41bc-8ef9-cf25019d1749")
 	)
-	(label "ACC1"
+	(label "KEY2"
 		(at 213.36 25.4 180)
 		(effects
 			(font
@@ -5196,7 +5234,7 @@
 		)
 		(uuid "2ad8e3e8-5671-475e-aec3-b980297801db")
 	)
-	(label "BAT_MON"
+	(label "ADC"
 		(at 227.33 90.17 0)
 		(effects
 			(font
@@ -5216,7 +5254,7 @@
 		)
 		(uuid "4b320df1-7713-4ebf-9b48-94f433e3611a")
 	)
-	(label "KLINE_TX"
+	(label "LIN_TX"
 		(at 81.28 137.16 0)
 		(effects
 			(font
@@ -5226,7 +5264,7 @@
 		)
 		(uuid "51231cb9-a6fd-4184-b534-e9b646af4728")
 	)
-	(label "BELL"
+	(label "BUZZER"
 		(at 123.19 181.61 0)
 		(effects
 			(font
@@ -5236,8 +5274,8 @@
 		)
 		(uuid "56ac481c-3dd1-4b92-9dff-06545cf8f65c")
 	)
-	(label "KLINE_RX"
-		(at 72.39 165.1 0)
+	(label "LIN_RX"
+		(at 72.39 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5246,7 +5284,7 @@
 		)
 		(uuid "7d1ee47e-f30c-41fe-821f-3fbfc9c17ec2")
 	)
-	(label "KEY"
+	(label "KEY0"
 		(at 213.36 64.77 180)
 		(effects
 			(font
@@ -5290,7 +5328,7 @@
 	)
 	(global_label "PA27_UART_TX_A0"
 		(shape input)
-		(at 91.44 137.16 0)
+		(at 87.63 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5300,7 +5338,7 @@
 		)
 		(uuid "0cacc0a3-3233-4adb-9392-533918598786")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.2375 137.16 0)
+			(at 107.4275 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5310,29 +5348,7 @@
 			)
 		)
 	)
-	(global_label "V_DLC"
-		(shape input)
-		(at 55.88 165.1 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2161242b-f458-4a94-bbad-f78c25231e23")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.8006 156.8721 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "V_BAT"
+	(global_label "VIN"
 		(shape input)
 		(at 176.53 90.17 180)
 		(effects
@@ -5354,7 +5370,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 129.54 29.21 90)
+		(at 111.76 29.21 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5363,33 +5379,11 @@
 		)
 		(uuid "2e229aba-2236-43bf-bfab-b8d5bd91ee05")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.918 10.033 0)
+			(at 88.138 10.033 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "V_DLC"
-		(shape input)
-		(at 71.12 104.14 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "50d39ccd-768c-4202-953d-fd8a27fb340e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.0406 95.9121 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -5411,6 +5405,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "V_ALL"
+		(shape input)
+		(at 49.53 160.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6795ea84-6d08-436e-a698-f3c52617668f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.353 183.642 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5455,7 +5469,7 @@
 			)
 		)
 	)
-	(global_label "KLINE"
+	(global_label "LIN"
 		(shape input)
 		(at 39.37 119.38 180)
 		(fields_autoplaced yes)
@@ -5467,7 +5481,7 @@
 		)
 		(uuid "8764e8e0-8458-431c-9a53-99c415c72535")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.384 119.3006 0)
+			(at 33.4214 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5563,7 +5577,7 @@
 			)
 		)
 	)
-	(global_label "V_BAT"
+	(global_label "VIN"
 		(shape input)
 		(at 27.94 31.75 180)
 		(effects
@@ -5585,7 +5599,7 @@
 	)
 	(global_label "PA26_UART_RX_A1"
 		(shape input)
-		(at 83.82 165.1 0)
+		(at 90.17 160.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5595,7 +5609,7 @@
 		)
 		(uuid "9d29668f-8e12-4363-92a0-7a95305b0cdf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.9199 165.1 0)
+			(at 110.2699 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5835,9 +5849,9 @@
 			)
 		)
 	)
-	(global_label "KLINE"
+	(global_label "LIN"
 		(shape input)
-		(at 45.72 182.88 180)
+		(at 45.72 177.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5847,7 +5861,7 @@
 		)
 		(uuid "eeb07288-c625-4e65-bbef-0f44f952558d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.734 182.8006 0)
+			(at 39.7714 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5953,24 +5967,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-CF002"
-			(at 43.18 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "SMAJ20CA-13-F"
-			(at 43.18 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "dc17fc71-24b3-4c0c-899a-970a0b490e57")
 		)
@@ -6030,24 +6026,6 @@
 			)
 		)
 		(property "Description" "RES SMD 4.7K OHM 5% 1/10W 0402"
-			(at 31.75 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-MA039"
-			(at 31.75 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402JR-074K7L"
 			(at 31.75 71.12 0)
 			(effects
 				(font
@@ -6192,24 +6170,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-B015"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "PDTC123JT,215"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "351e19af-cd00-4509-bc50-0045d59ffab9")
 		)
@@ -6342,24 +6302,6 @@
 			)
 		)
 		(property "Description" "RES SMD 10K OHM 1% 1/16W 0402"
-			(at 193.04 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-GPS023"
-			(at 193.04 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402FR-0710KL"
 			(at 193.04 95.25 0)
 			(effects
 				(font
@@ -6633,24 +6575,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 213.36 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
-			(at 213.36 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "25b3f8fe-9ac5-458e-9e15-ad455d64cc35")
 		)
@@ -6718,24 +6642,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTK003"
-			(at 222.25 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402JR-07220RL"
-			(at 222.25 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "dc6f7985-1c38-4268-bb52-bca267d3422d")
 		)
@@ -6753,7 +6659,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 104.14 36.83 0)
+		(at 106.68 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6761,7 +6667,7 @@
 		(dnp no)
 		(uuid "24f8b09d-a4c7-4eb9-a7db-e39f39bda27c")
 		(property "Reference" "C15"
-			(at 106.553 36.83 0)
+			(at 109.093 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6770,7 +6676,7 @@
 			)
 		)
 		(property "Value" "4.7uF/10V"
-			(at 106.477 37.973 0)
+			(at 109.017 37.973 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6780,7 +6686,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 104.14 36.83 0)
+			(at 106.68 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6789,7 +6695,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 36.83 0)
+			(at 106.68 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6798,25 +6704,7 @@
 			)
 		)
 		(property "Description" "CAP CER 4.7UF 10V X5R 0603"
-			(at 104.14 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B032"
-			(at 104.14 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL10A475KP8NNNC"
-			(at 104.14 36.83 0)
+			(at 106.68 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6858,8 +6746,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF/50V"
-			(at 215.519 30.1498 0)
+		(property "Value" "0.1uF"
+			(at 212.09 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6886,24 +6774,6 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0402"
-			(at 203.2 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 203.2 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
 			(at 203.2 29.21 0)
 			(effects
 				(font
@@ -6972,24 +6842,6 @@
 			)
 		)
 		(property "Description" "RES SMD 10K OHM 1% 1/16W 0402"
-			(at 194.31 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-GPS023"
-			(at 194.31 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402FR-0710KL"
 			(at 194.31 69.85 0)
 			(effects
 				(font
@@ -7131,7 +6983,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF/50V"
+		(property "Value" "0.1uF"
 			(at 274.117 135.763 0)
 			(effects
 				(font
@@ -7167,24 +7019,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 271.78 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
-			(at 271.78 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "fe30df48-a6e3-4260-a694-8d618f481ee4")
 		)
@@ -7202,7 +7036,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 144.78 0)
+		(at 158.75 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7210,7 +7044,7 @@
 		(dnp no)
 		(uuid "2ae08e5a-db7a-43c1-8615-3fd6be1232f6")
 		(property "Reference" "#PWR033"
-			(at 187.96 151.13 0)
+			(at 158.75 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7219,7 +7053,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 188.087 149.1742 0)
+			(at 158.877 149.1742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7227,7 +7061,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 144.78 0)
+			(at 158.75 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7236,7 +7070,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 144.78 0)
+			(at 158.75 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7245,7 +7079,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 144.78 0)
+			(at 158.75 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7267,7 +7101,7 @@
 	)
 	(symbol
 		(lib_id "Device:Q_NPN_BEC")
-		(at 53.34 182.88 0)
+		(at 53.34 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7276,7 +7110,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c65ae91-03f9-4739-8531-c62e17fc1be7")
 		(property "Reference" "Q5"
-			(at 58.42 181.6099 0)
+			(at 58.42 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7285,7 +7119,7 @@
 			)
 		)
 		(property "Value" "PDTC123JT"
-			(at 58.42 184.1499 0)
+			(at 58.42 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +7128,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 58.42 180.34 0)
+			(at 58.42 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,7 +7137,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 182.88 0)
+			(at 53.34 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7312,25 +7146,7 @@
 			)
 		)
 		(property "Description" "TRANS NPN 40V 0.6A SOT23"
-			(at 53.34 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B013"
-			(at 53.34 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "PMBT2222A,215"
-			(at 53.34 182.88 0)
+			(at 53.34 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7488,7 +7304,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 185.42 129.54 270)
+		(at 177.8 129.54 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7496,7 +7312,7 @@
 		(dnp no)
 		(uuid "30d6ef29-09b9-4133-97ba-63923e2560f4")
 		(property "Reference" "R24"
-			(at 184.15 124.46 90)
+			(at 176.53 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7504,7 +7320,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 184.15 127 90)
+			(at 176.53 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7512,7 +7328,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 185.42 129.54 0)
+			(at 177.8 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7521,7 +7337,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 129.54 0)
+			(at 177.8 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7530,25 +7346,7 @@
 			)
 		)
 		(property "Description" "RES SMD 220 OHM 5% 1/16W 0402"
-			(at 185.42 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-PTK003"
-			(at 185.42 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402JR-07220RL"
-			(at 185.42 129.54 0)
+			(at 177.8 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7758,24 +7556,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 82.55 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
-			(at 82.55 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "53adaaf6-5221-4a23-af40-5bfd305ca3ee")
 		)
@@ -7910,24 +7690,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-B009"
-			(at 140.97 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "1N4148W-7-F"
-			(at 140.97 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "08b01efe-1cbe-4417-b66c-b36cccbde198")
 		)
@@ -7945,7 +7707,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 207.01 135.89 180)
+		(at 199.39 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7953,7 +7715,7 @@
 		(dnp no)
 		(uuid "4161dcb1-d0a3-457c-9328-3c8924b37a94")
 		(property "Reference" "C18"
-			(at 211.0232 134.2644 0)
+			(at 203.4032 134.2644 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7962,7 +7724,7 @@
 			)
 		)
 		(property "Value" "1nF"
-			(at 210.921 137.668 0)
+			(at 203.301 137.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7971,7 +7733,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 207.01 135.89 0)
+			(at 199.39 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7980,7 +7742,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 135.89 0)
+			(at 199.39 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7989,25 +7751,7 @@
 			)
 		)
 		(property "Description" "1nF; 50V; C0G; ±5%; SMD; 0603"
-			(at 207.01 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B016"
-			(at 207.01 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL10C102JB8NNNC"
-			(at 207.01 135.89 0)
+			(at 199.39 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8098,7 +7842,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 200.66 135.89 180)
+		(at 194.31 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8106,7 +7850,7 @@
 		(dnp no)
 		(uuid "44c3e3e6-a6d0-4d06-abba-48c33f466247")
 		(property "Reference" "R25"
-			(at 203.2508 133.7564 0)
+			(at 196.9008 133.7564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8114,7 +7858,7 @@
 			)
 		)
 		(property "Value" "470K"
-			(at 203.4794 138.303 0)
+			(at 197.1294 138.303 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8122,7 +7866,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 200.66 135.89 0)
+			(at 194.31 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8131,7 +7875,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 200.66 135.89 0)
+			(at 194.31 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8140,25 +7884,7 @@
 			)
 		)
 		(property "Description" "RES SMD 470K OHM 1% 1/10W 0402"
-			(at 200.66 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-TR020"
-			(at 200.66 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402FR-07470KL"
-			(at 200.66 135.89 0)
+			(at 194.31 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8302,24 +8028,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-TR022"
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402FR-07100KL"
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0cc7db72-4621-44c8-9258-fe89447f4669")
 		)
@@ -8452,24 +8160,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-B003"
-			(at 269.24 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "LM358ADT"
-			(at 269.24 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f6fe1f1c-5196-4c58-a925-5b71d1114124")
 		)
@@ -8573,7 +8263,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 222.25 142.24 270)
+		(at 222.25 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8581,7 +8271,7 @@
 		(dnp no)
 		(uuid "5505c336-c1c2-47eb-a57f-67d47dbd5e3c")
 		(property "Reference" "#PWR018"
-			(at 218.44 142.24 0)
+			(at 218.44 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8590,7 +8280,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 226.6442 142.621 0)
+			(at 226.6442 143.891 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8598,7 +8288,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 142.24 0)
+			(at 222.25 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8607,7 +8297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 142.24 0)
+			(at 222.25 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8616,7 +8306,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 222.25 142.24 0)
+			(at 222.25 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8638,7 +8328,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 180.34 135.89 180)
+		(at 172.72 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8646,7 +8336,7 @@
 		(dnp no)
 		(uuid "57e1589b-9c73-4b0e-a1d5-28d40914f7a8")
 		(property "Reference" "C17"
-			(at 186.436 135.128 0)
+			(at 178.816 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8655,7 +8345,7 @@
 			)
 		)
 		(property "Value" "8.2nF"
-			(at 187.579 137.922 0)
+			(at 179.959 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8664,7 +8354,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 180.34 135.89 0)
+			(at 172.72 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8673,7 +8363,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 135.89 0)
+			(at 172.72 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8682,25 +8372,7 @@
 			)
 		)
 		(property "Description" "100V 8.2nF (8200PF) X7R 0805 10%"
-			(at 180.34 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B008"
-			(at 180.34 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "08051C822KAT2A"
-			(at 180.34 135.89 0)
+			(at 172.72 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8771,24 +8443,6 @@
 			)
 		)
 		(property "Description" "TRANS NPN 60V 3.8A SOT23"
-			(at 58.42 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-MA021"
-			(at 58.42 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "PBSS4041NT,215"
 			(at 58.42 129.54 0)
 			(effects
 				(font
@@ -8934,24 +8588,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-GPS023"
-			(at 182.88 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402FR-0710KL"
-			(at 182.88 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ee6e35c2-f3fa-4632-8943-320df6a46d41")
 		)
@@ -9086,24 +8722,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-B015"
-			(at 240.03 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "PDTC123JT,215"
-			(at 240.03 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "93c65af5-e316-40b5-acb6-18c9eb0f2fbc")
 		)
@@ -9189,7 +8807,7 @@
 	)
 	(symbol
 		(lib_id "Device:Q_NPN_BEC_BRT")
-		(at 71.12 173.99 0)
+		(at 71.12 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9197,7 +8815,7 @@
 		(dnp no)
 		(uuid "6d9a783c-44c5-40f4-a988-90f416bb4240")
 		(property "Reference" "Q6"
-			(at 74.4982 171.6531 0)
+			(at 74.4982 166.5731 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9206,7 +8824,7 @@
 			)
 		)
 		(property "Value" "PDTC123JT"
-			(at 72.8726 176.7839 0)
+			(at 72.8726 171.7039 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9215,7 +8833,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 71.12 173.99 0)
+			(at 71.12 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9224,7 +8842,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 71.12 173.99 0)
+			(at 71.12 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9233,25 +8851,7 @@
 			)
 		)
 		(property "Description" "TRANS PREBIAS NPN 250MW TO236AB"
-			(at 71.12 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B015"
-			(at 71.12 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "PDTC123JT,215"
-			(at 71.12 173.99 0)
+			(at 71.12 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9487,15 +9087,15 @@
 		(dnp no)
 		(uuid "759c4998-5c10-43f6-b635-ad1675576d90")
 		(property "Reference" "R8"
-			(at 116.078 111.76 90)
+			(at 113.538 110.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "220R"
-			(at 120.396 111.76 90)
+		(property "Value" "560R"
+			(at 113.538 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9521,24 +9121,6 @@
 			)
 		)
 		(property "Description" "RES SMD 220 OHM 5% 1/16W 0402"
-			(at 118.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-PTK003"
-			(at 118.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402JR-07220RL"
 			(at 118.11 111.76 0)
 			(effects
 				(font
@@ -9614,24 +9196,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-B018"
-			(at 71.12 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0603JR-0722KL"
-			(at 71.12 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0324148e-62c2-4aa4-ba61-a4e8b177c7da")
 		)
@@ -9691,24 +9255,6 @@
 			)
 		)
 		(property "Description" "OP Amp Dual GP ±15V/30V 8-Pin SO N T/"
-			(at 219.71 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B003"
-			(at 219.71 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "LM358ADT"
 			(at 219.71 132.08 0)
 			(effects
 				(font
@@ -9885,71 +9431,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 43.18 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "81e82428-ff5b-45f4-ac82-668f27520aa7")
-		(property "Reference" "#PWR011"
-			(at 43.18 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 43.307 139.0142 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 43.18 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dc3c585c-fd69-402e-9f03-7b0d62c45e0d")
-		)
-		(instances
-			(project "LP_MSPM0C1104-EB-V1.1"
-				(path "/57dc66c8-a17b-459e-b1fd-3d03c3a0d132"
-					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 68.58 36.83 0)
 		(unit 1)
@@ -9959,7 +9440,7 @@
 		(dnp no)
 		(uuid "823abc73-472f-4a44-84b3-cb48020092be")
 		(property "Reference" "C9"
-			(at 69.723 39.0906 0)
+			(at 71.882 36.0426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9967,8 +9448,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF/25V"
-			(at 69.723 41.402 0)
+		(property "Value" "2.2uF"
+			(at 71.882 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9995,24 +9476,6 @@
 			)
 		)
 		(property "Description" "CAP CER 2.2UF 25V X5R 0603 10%"
-			(at 68.58 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-PTM007"
-			(at 68.58 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "GRM188R61E225KA12D"
 			(at 68.58 36.83 0)
 			(effects
 				(font
@@ -10153,24 +9616,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-LC032"
-			(at 140.97 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0805JR-07100RL"
-			(at 140.97 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c2ed6d71-2e81-4c8d-8bf1-25eca5f3e0ae")
 		)
@@ -10238,24 +9683,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA039"
-			(at 22.86 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402JR-074K7L"
-			(at 22.86 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f59c7ff6-8113-4500-b197-49978c1c3595")
 		)
@@ -10273,7 +9700,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N5711")
-		(at 196.85 135.89 270)
+		(at 189.23 135.89 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10281,7 +9708,7 @@
 		(dnp no)
 		(uuid "95af9316-2fbb-415b-80ec-5c8e71d249ea")
 		(property "Reference" "D11"
-			(at 197.1294 132.5372 90)
+			(at 189.5094 132.5372 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10290,7 +9717,7 @@
 			)
 		)
 		(property "Value" "30V"
-			(at 197.1802 138.5824 90)
+			(at 189.5602 138.5824 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10299,7 +9726,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 192.405 135.89 0)
+			(at 184.785 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10308,7 +9735,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 135.89 0)
+			(at 189.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10317,25 +9744,7 @@
 			)
 		)
 		(property "Description" "DIODE ZENER 30V 1W SMA"
-			(at 196.85 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-LC019"
-			(at 196.85 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "SMAZ30-13-F"
-			(at 196.85 135.89 0)
+			(at 189.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10360,7 +9769,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 55.88 170.18 0)
+		(at 55.88 165.1 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10369,7 +9778,7 @@
 		(dnp no)
 		(uuid "98ac02d3-0f20-4c15-9b56-fb59380a43bd")
 		(property "Reference" "R21"
-			(at 60.4012 167.6145 0)
+			(at 60.4012 162.5345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10378,7 +9787,7 @@
 			)
 		)
 		(property "Value" "22K"
-			(at 60.8076 171.2213 0)
+			(at 60.8076 166.1413 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10387,7 +9796,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 55.88 170.18 0)
+			(at 55.88 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10396,7 +9805,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 170.18 0)
+			(at 55.88 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10405,25 +9814,7 @@
 			)
 		)
 		(property "Description" "RES SMD 22K OHM 5% 1/10W 0603"
-			(at 55.88 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B018"
-			(at 55.88 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0603JR-0722KL"
-			(at 55.88 170.18 0)
+			(at 55.88 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10565,24 +9956,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-GPS023"
-			(at 194.31 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402FR-0710KL"
-			(at 194.31 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "87d8709b-207f-4694-abfe-180480b7e468")
 		)
@@ -10632,7 +10005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+		(property "Datasheet" ""
 			(at 219.71 119.38 0)
 			(effects
 				(font
@@ -10642,24 +10015,6 @@
 			)
 		)
 		(property "Description" "OP Amp Dual GP ±15V/30V 8-Pin SO N T/"
-			(at 219.71 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B003"
-			(at 219.71 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "LM358ADT"
 			(at 219.71 119.38 0)
 			(effects
 				(font
@@ -10703,7 +10058,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 215.9 142.24 270)
+		(at 215.9 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10711,7 +10066,7 @@
 		(dnp no)
 		(uuid "9dc6dbdf-3227-4e91-8e00-bc6ccf74253e")
 		(property "Reference" "R28"
-			(at 217.17 144.78 90)
+			(at 216.408 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10719,7 +10074,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 217.17 147.32 90)
+			(at 216.408 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10727,7 +10082,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 215.9 142.24 0)
+			(at 215.9 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10736,7 +10091,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 142.24 0)
+			(at 215.9 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10745,25 +10100,7 @@
 			)
 		)
 		(property "Description" "RES SMD 100K OHM 5% 1/10W 0402"
-			(at 215.9 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-RD034"
-			(at 215.9 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402JR-07100KL"
-			(at 215.9 142.24 0)
+			(at 215.9 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10832,24 +10169,6 @@
 			)
 		)
 		(property "Description" "TVS DIODE 20V 32.4V SMA"
-			(at 57.15 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-CF002"
-			(at 57.15 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "SMAJ20CA-13-F"
 			(at 57.15 38.1 0)
 			(effects
 				(font
@@ -10990,24 +10309,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 88.9 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
-			(at 88.9 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "43776c3e-9d37-4f94-90bd-06029ededd65")
 		)
@@ -11034,15 +10335,15 @@
 		(fields_autoplaced yes)
 		(uuid "abca3ba3-92a2-4dd4-86b5-6bd99992f6b2")
 		(property "Reference" "U4"
-			(at 87.63 25.908 0)
+			(at 87.63 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "AP7380-33W5-7"
-			(at 87.63 28.448 0)
+		(property "Value" "AP7380"
+			(at 87.63 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11068,24 +10369,6 @@
 			)
 		)
 		(property "Description" "IC REG LINEAR 3.3V 150MA SOT25"
-			(at 87.63 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-SK029"
-			(at 87.63 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "AP7380-33W5-7"
 			(at 87.63 34.29 0)
 			(effects
 				(font
@@ -11136,7 +10419,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF/50V"
+		(property "Value" "0.1uF"
 			(at 45.5168 109.093 0)
 			(effects
 				(font
@@ -11164,24 +10447,6 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0402"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 43.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
 			(at 43.18 107.95 0)
 			(effects
 				(font
@@ -11259,24 +10524,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-B015"
-			(at 139.7 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "PDTC123JT,215"
-			(at 139.7 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "90010e52-ac68-4ce1-9818-66ad7b6e68ef")
 		)
@@ -11305,7 +10552,7 @@
 		(dnp no)
 		(uuid "af291799-c50b-4ce4-bf65-8823bab4bacb")
 		(property "Reference" "C14"
-			(at 99.441 36.957 0)
+			(at 100.076 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11340,24 +10587,6 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0402"
-			(at 96.52 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 96.52 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
 			(at 96.52 36.83 0)
 			(effects
 				(font
@@ -11448,7 +10677,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 173.99 135.89 180)
+		(at 163.83 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11456,7 +10685,7 @@
 		(dnp no)
 		(uuid "b189ed84-30c6-4402-9ad8-c8bbfe961d4a")
 		(property "Reference" "R22"
-			(at 176.784 135.128 0)
+			(at 166.624 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11464,7 +10693,7 @@
 			)
 		)
 		(property "Value" "220K"
-			(at 176.911 137.922 0)
+			(at 166.751 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11472,7 +10701,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 173.99 135.89 0)
+			(at 163.83 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11481,7 +10710,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 135.89 0)
+			(at 163.83 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11490,25 +10719,7 @@
 			)
 		)
 		(property "Description" "RES SMD 220K OHM 5% 1/10W 0603"
-			(at 173.99 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B023"
-			(at 173.99 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0603FR-07220KL"
-			(at 173.99 135.89 0)
+			(at 163.83 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11548,7 +10759,7 @@
 				)
 			)
 		)
-		(property "Value" "47R-1/2W"
+		(property "Value" "47R"
 			(at 41.91 34.036 90)
 			(effects
 				(font
@@ -11583,24 +10794,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTM016"
-			(at 41.91 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC1210JR-0747RL"
-			(at 41.91 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f78a4f6f-eff3-4b2a-a480-d1949b18ea77")
 		)
@@ -11618,7 +10811,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 72.39 190.5 0)
+		(at 72.39 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11626,7 +10819,7 @@
 		(dnp no)
 		(uuid "b4f245cf-a4e4-48d6-99a1-351a4d44c756")
 		(property "Reference" "#PWR031"
-			(at 72.39 196.85 0)
+			(at 72.39 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11635,7 +10828,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 72.39 194.1576 0)
+			(at 72.39 189.0776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11643,7 +10836,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 190.5 0)
+			(at 72.39 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11652,7 +10845,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 190.5 0)
+			(at 72.39 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11661,7 +10854,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 72.39 190.5 0)
+			(at 72.39 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11725,24 +10918,6 @@
 			)
 		)
 		(property "Description" "RES SMD 1K OHM 5% 1/4W 1206"
-			(at 55.88 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-LC013"
-			(at 55.88 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC1206JR-071KL"
 			(at 55.88 115.57 0)
 			(effects
 				(font
@@ -11884,24 +11059,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-B001"
-			(at 33.02 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "S1M-13-F"
-			(at 33.02 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cfcc9136-c569-4fe6-a5f1-23c008f42637")
 		)
@@ -11936,8 +11093,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF/50V"
-			(at 215.519 49.1998 0)
+		(property "Value" "0.1uF"
+			(at 213.106 49.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11972,24 +11129,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 203.2 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
-			(at 203.2 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f2b2b76f-f6bc-47bb-93c8-bced0cff5685")
 		)
@@ -12007,7 +11146,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 166.37 137.16 0)
+		(at 158.75 137.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12016,7 +11155,7 @@
 		(dnp no)
 		(uuid "c1b4ed6e-4832-4d48-80b5-251635be2913")
 		(property "Reference" "L1"
-			(at 165.1 135.8899 0)
+			(at 157.48 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12025,7 +11164,7 @@
 			)
 		)
 		(property "Value" "L"
-			(at 165.1 138.4299 0)
+			(at 157.48 138.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12034,7 +11173,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 166.37 137.16 0)
+			(at 158.75 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12043,7 +11182,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 166.37 137.16 0)
+			(at 158.75 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12052,7 +11191,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 166.37 137.16 0)
+			(at 158.75 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12142,7 +11281,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 191.77 129.54 180)
+		(at 184.15 129.54 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12150,7 +11289,7 @@
 		(dnp no)
 		(uuid "c1f01313-75be-4ba5-a32b-70e85250f58e")
 		(property "Reference" "D10"
-			(at 191.77 124.46 0)
+			(at 184.15 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12158,7 +11297,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 191.77 127 0)
+			(at 184.15 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12166,7 +11305,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 191.77 125.095 0)
+			(at 184.15 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12175,7 +11314,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 129.54 0)
+			(at 184.15 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12184,25 +11323,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 100V 300MA SOD123."
-			(at 191.77 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-B009"
-			(at 191.77 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "1N4148W-7-F"
-			(at 191.77 129.54 0)
+			(at 184.15 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12242,7 +11363,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF/50V"
+		(property "Value" "0.1uF"
 			(at 52.2478 38.7096 0)
 			(effects
 				(font
@@ -12277,24 +11398,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 48.26 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
-			(at 48.26 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "22f92b85-758b-4b1f-80e4-e38c8917477d")
 		)
@@ -12321,15 +11424,15 @@
 		(dnp no)
 		(uuid "c86f3f20-e8d7-406a-ab72-b9096ef25755")
 		(property "Reference" "R26"
-			(at 130.048 111.76 90)
+			(at 136.906 109.474 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "220R"
-			(at 134.366 111.76 90)
+		(property "Value" "560R"
+			(at 136.906 112.014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12363,24 +11466,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTK003"
-			(at 132.08 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402JR-07220RL"
-			(at 132.08 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "23452bab-f48b-4c68-b802-20337edce492")
 		)
@@ -12391,71 +11476,6 @@
 			(project "LP_MSPM0C1104-EB-V1.1"
 				(path "/57dc66c8-a17b-459e-b1fd-3d03c3a0d132"
 					(reference "R26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 212.09 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cee322d0-beb2-4975-8d1e-7ae189bf3436")
-		(property "Reference" "#PWR034"
-			(at 212.09 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 212.217 152.9842 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cca05510-3980-411e-a988-2c5f108f30fe")
-		)
-		(instances
-			(project "LP_MSPM0C1104-EB-V1.1"
-				(path "/57dc66c8-a17b-459e-b1fd-3d03c3a0d132"
-					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -12507,24 +11527,6 @@
 			)
 		)
 		(property "Description" "BUZZER 40 mA (Max.); 5 VDC; 2400 Hz"
-			(at 157.48 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-LC004"
-			(at 157.48 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "BRT1209PF-06"
 			(at 157.48 163.83 0)
 			(effects
 				(font
@@ -12615,7 +11617,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 104.14 39.37 0)
+		(at 106.68 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12623,7 +11625,7 @@
 		(dnp no)
 		(uuid "d9ed55e9-1b2b-4b9b-bb9c-fe8a5a790aea")
 		(property "Reference" "#PWR028"
-			(at 104.14 45.72 0)
+			(at 106.68 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12632,7 +11634,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 104.267 43.7642 0)
+			(at 106.807 43.7642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12640,7 +11642,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 39.37 0)
+			(at 106.68 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12649,7 +11651,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 39.37 0)
+			(at 106.68 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12658,7 +11660,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 39.37 0)
+			(at 106.68 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12697,8 +11699,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF/50V"
-			(at 215.519 69.5198 0)
+		(property "Value" "0.1uF"
+			(at 212.598 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12733,24 +11735,6 @@
 				(hide yes)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
-			(at 203.2 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
-			(at 203.2 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "7c6625c7-8d8f-4bc9-a264-1d279a7b7776")
 		)
@@ -12768,7 +11752,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 212.09 146.05 180)
+		(at 205.74 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12776,7 +11760,7 @@
 		(dnp no)
 		(uuid "ea591dfb-8fc5-4153-973e-b29b74d68977")
 		(property "Reference" "R27"
-			(at 208.28 146.05 0)
+			(at 206.756 138.938 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12784,7 +11768,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 208.28 148.59 0)
+			(at 206.248 141.224 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12792,7 +11776,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 212.09 146.05 0)
+			(at 205.74 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12801,7 +11785,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 146.05 0)
+			(at 205.74 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12810,25 +11794,7 @@
 			)
 		)
 		(property "Description" "RES SMD 100K OHM 5% 1/10W 0402"
-			(at 212.09 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-RD034"
-			(at 212.09 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "RC0402JR-07100KL"
-			(at 212.09 146.05 0)
+			(at 205.74 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13096,24 +12062,6 @@
 			)
 		)
 		(property "Description" "DIODE ZENER 3.6V 300MW SOD323"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IKY-MPN" "IKY-MA040"
-			(at 203.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer P/N" "BZX384-C3V6,115"
 			(at 203.2 93.98 0)
 			(effects
 				(font

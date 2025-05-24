@@ -129,8 +129,8 @@
 	(net 23 "Net-(C17-Pad2)")
 	(net 24 "Net-(D10-K)")
 	(net 25 "Net-(BZ1-+)")
-	(net 26 "V_BAT")
-	(net 27 "KLINE")
+	(net 26 "VIN")
+	(net 27 "LIN")
 	(net 28 "Net-(D10-A)")
 	(net 29 "Net-(Q1-C)")
 	(net 30 "Net-(Q2-B)")
@@ -217,7 +217,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B018"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -230,7 +230,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0603JR-0722KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -407,7 +407,7 @@
 				)
 			)
 		)
-		(property "Value" "220R"
+		(property "Value" "560R"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "f0b32fce-0f84-4ee7-991f-8e3929c7c756")
@@ -457,7 +457,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTK003"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -470,7 +470,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402JR-07220RL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -697,7 +697,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-RD034"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -710,7 +710,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402JR-07100KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -937,7 +937,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B008"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -950,7 +950,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "08051C822KAT2A"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1177,7 +1177,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-GPS023"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1190,7 +1190,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402FR-0710KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1417,7 +1417,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-LC019"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1430,7 +1430,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "SMAZ30-13-F"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1729,6 +1729,32 @@
 				)
 			)
 		)
+		(property "IKY-MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e84353b2-32d5-4e9b-b7fa-2a9ff84aa1c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b749a53-671d-40eb-88b5-989603127679")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/818cb1f0-de6c-470d-810a-0de62d17c88e")
 		(sheetname "Root")
@@ -1965,7 +1991,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1978,7 +2004,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2205,7 +2231,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA039"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2218,7 +2244,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402JR-074K7L"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2445,7 +2471,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B018"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2458,7 +2484,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0603JR-0722KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2685,6 +2711,32 @@
 				)
 			)
 		)
+		(property "IKY-MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d2bd17f-05b7-47dc-9cdb-29babd95d0b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c3dc03e-de39-4c9e-9a26-f1c48b6bb957")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/44cc58f5-7632-45b4-9b89-7f25e8d53c9b")
 		(sheetname "Root")
@@ -2868,7 +2920,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 26 "V_BAT")
+			(net 26 "VIN")
 			(pinfunction "Pin_2")
 			(pintype "passive")
 			(uuid "3239e64d-22f8-430d-ba5f-c2f0a473fea9")
@@ -2950,7 +3002,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B015"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2963,7 +3015,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "PDTC123JT,215"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3240,7 +3292,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B015"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3253,7 +3305,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "PDTC123JT,215"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3533,7 +3585,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTM016"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3546,7 +3598,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC1210JR-0747RL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3773,7 +3825,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B001"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3786,7 +3838,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "S1M-13-F"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4000,7 +4052,7 @@
 			(size 2.5 1.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.1388888889)
-			(net 26 "V_BAT")
+			(net 26 "VIN")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "7d9162f5-f55d-4ba9-bdbc-e12f34c8648b")
@@ -4081,6 +4133,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "IKY-MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6f589d8-95e4-4a10-b79a-2f2096e737d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f40a4aa1-b5a8-42fc-bdc6-23c0a8696bbd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4511,7 +4589,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA040"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4524,7 +4602,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "BZX384-C3V6,115"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4823,6 +4901,32 @@
 				)
 			)
 		)
+		(property "IKY-MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b007462f-4673-43db-931a-c9a431074769")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c2771cf-9455-4050-b2cc-88757f73ae81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/c1b4ed6e-4832-4d48-80b5-251635be2913")
 		(sheetname "Root")
@@ -5091,7 +5195,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B009"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5104,7 +5208,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "1N4148W-7-F"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5413,7 +5517,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5426,7 +5530,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5653,7 +5757,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B009"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5666,7 +5770,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "1N4148W-7-F"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5975,7 +6079,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5988,7 +6092,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6215,7 +6319,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTK003"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6228,7 +6332,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402JR-07220RL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6455,7 +6559,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6468,7 +6572,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6695,7 +6799,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-TR020"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6708,7 +6812,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402FR-07470KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6932,7 +7036,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B015"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6945,7 +7049,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "PDTC123JT,215"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7225,7 +7329,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTK003"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7238,7 +7342,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402JR-07220RL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7462,7 +7566,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B013"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7475,7 +7579,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "PMBT2222A,215"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7650,7 +7754,7 @@
 			(size 1.475 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 27 "KLINE")
+			(net 27 "LIN")
 			(pinfunction "B")
 			(pintype "input")
 			(uuid "17488492-f720-4b0f-8d5c-6921978abd23")
@@ -7750,6 +7854,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "IKY-MPN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7a67899-1b06-491c-aafd-09ee461e2a4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a78661c-fedd-495a-8a82-6d9a0b71c21b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8111,7 +8241,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-LC004"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8124,7 +8254,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "BRT1209PF-06"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8318,7 +8448,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA021"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8331,7 +8461,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "PBSS4041NT,215"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8526,7 +8656,7 @@
 			(size 1.475 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 27 "KLINE")
+			(net 27 "LIN")
 			(pinfunction "C")
 			(pintype "passive")
 			(uuid "6f0a8274-325a-4fe4-b1ed-3e9a25c50b9e")
@@ -8611,7 +8741,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTM007"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8624,7 +8754,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "GRM188R61E225KA12D"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8824,7 +8954,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8848,7 +8978,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B003"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8861,7 +8991,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "LM358ADT"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9190,7 +9320,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-RD034"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9203,7 +9333,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402JR-07100KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9430,7 +9560,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-CF002"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9443,7 +9573,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "SMAJ20CA-13-F"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9647,7 +9777,7 @@
 			(size 2.5 1.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.1388888889)
-			(net 27 "KLINE")
+			(net 27 "LIN")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "4a929042-8720-48d3-9771-fc54cf48e44c")
@@ -9742,7 +9872,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-TR022"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9755,7 +9885,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402FR-07100KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9889,7 +10019,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 26 "V_BAT")
+			(net 26 "VIN")
 			(pintype "passive")
 			(uuid "d407255f-776f-4f25-9a0a-eba98b1be7de")
 		)
@@ -9978,6 +10108,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "IKY-MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bec07856-cae3-4ea1-af49-ad8ec577743d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "babf4c68-f7cf-4456-a50e-3f4eedee30c4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10165,7 +10321,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 27 "KLINE")
+			(net 27 "LIN")
 			(pinfunction "Pin_2")
 			(pintype "passive")
 			(uuid "f388b48e-db9c-4fc6-9e1f-296eb485e6a4")
@@ -10250,7 +10406,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B016"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10263,7 +10419,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL10C102JB8NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10490,7 +10646,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-GPS023"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10503,7 +10659,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402FR-0710KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10730,7 +10886,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B023"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10743,7 +10899,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0603FR-07220KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10965,6 +11121,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "IKY-MPN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bbc9d43-06fb-4a00-abbf-8bf62f3e3a64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb505dac-74ca-4cf5-a02e-17132d089429")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11329,7 +11511,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA039"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11342,7 +11524,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402JR-074K7L"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11569,7 +11751,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11582,7 +11764,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11809,7 +11991,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-GPS023"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11822,7 +12004,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402FR-0710KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12049,7 +12231,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12062,7 +12244,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12286,7 +12468,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-SK029"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12299,7 +12481,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "AP7380-33W5-7"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12597,7 +12779,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B015"
+		(property "IKY-MPN" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12610,7 +12792,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "PDTC123JT,215"
+		(property "Manufacturer P/N" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12890,7 +13072,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12903,7 +13085,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13130,7 +13312,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-LC032"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13143,7 +13325,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0805JR-07100RL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -58346,6 +58528,32 @@
 				)
 			)
 		)
+		(property "IKY-MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6ec22d6-c35e-4e96-b110-c49425a4a159")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4978e4e8-5e12-4340-896f-8a6965fcbe6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1136c4b7-edfb-462c-b296-9a1e5fbaccb5")
 		(sheetname "Root")
@@ -58582,7 +58790,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -58595,7 +58803,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -58822,7 +59030,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -58835,7 +59043,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59012,7 +59220,7 @@
 				)
 			)
 		)
-		(property "Value" "220R"
+		(property "Value" "560R"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "29b1cbdd-1bc6-470d-ae79-9fba9da3db1a")
@@ -59062,7 +59270,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-PTK003"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59075,7 +59283,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402JR-07220RL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59302,7 +59510,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-LC013"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59315,7 +59523,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC1206JR-071KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59449,7 +59657,7 @@
 			(size 1.125 1.75)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.222222)
-			(net 27 "KLINE")
+			(net 27 "LIN")
 			(pintype "passive")
 			(uuid "dfb20791-b98c-4b36-b29b-312d2a72d21a")
 		)
@@ -59542,7 +59750,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-CF002"
+		(property "IKY-MPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59555,7 +59763,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "SMAJ20CA-13-F"
+		(property "Manufacturer P/N" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59854,7 +60062,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-B032"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59867,7 +60075,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL10A475KP8NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60090,6 +60298,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "IKY-MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "889b13ba-c8f8-4819-a84e-cad7998f7a95")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e45b88a-edb1-44dd-9ec9-d5b948000261")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -102534,7 +102768,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-GPS023"
+		(property "IKY-MPN" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -102547,7 +102781,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "RC0402FR-0710KL"
+		(property "Manufacturer P/N" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -102769,6 +103003,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "IKY-MPN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90f91181-bc49-4102-8243-eea2d27fdd73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer P/N" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9617074-9d8f-46d1-963b-4754fa6c6e78")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -103133,7 +103393,7 @@
 				)
 			)
 		)
-		(property "IKY-MPN" "IKY-MA002"
+		(property "IKY-MPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -103146,7 +103406,7 @@
 				)
 			)
 		)
-		(property "Manufacturer P/N" "CL05B104KB5NNNC"
+		(property "Manufacturer P/N" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
